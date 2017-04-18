@@ -1,4 +1,4 @@
-#Object Recognition Drone
+# Object Recognition Drone
 
 The Object Recognition Drone is a platform that allows one to perform object recognition using a drone. This software implements the Microsoft Computer Vision API and the Microsoft Bing Speech API and combines it with the Node Javascript file to access a Web Interface for full control of the drone functionalities. By invoking the server.js, you can fly your drone and have it recognize objects in real-time. 
 
@@ -6,14 +6,14 @@ For more information on Microsoft Computer Vision APIs and the Microsoft Bing Sp
 
 Inspiration for this project came from Lukas Biewald’s article. 
 
-#Source Code
+# Source Code
 
 Clone the sources: git clone https://github.com/Object_Recognition_Drone
 
-#The Project
+# The Project
 This is a Node.js and Python application to demonstrate the uses and integrations of the Computer Vision APIs and Bing Speech APIs. 
 
-#Dependencies
+# Dependencies
 This repository contains all of the necessary files and dependencies excluding node.js and Python needed to build this project and use it yourself. A drone is needed for recreating this project, a Parrot AR Drone 2.0 Power Edition Quadricopter is recommended for best compatibility. 
 
 To install Node.js, https://nodejs.org/en/ 
@@ -25,7 +25,7 @@ Run “pip install git+https://github.com/westparkcom/Python-Bing-TTS.git”
 Install ffmpeg 
 
 
-#Running the Project 
+# Running the Project 
 
 Note: This specific drone only supports 2.4 GHz networks.
 
