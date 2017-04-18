@@ -29,7 +29,6 @@
     socket.subscribe("/drone/move", function(cmd) {
         var _name;
         console.log("move", cmd);
-        drone.ftrim()
         return typeof drone[_name = cmd.action] === "function" ? drone[_name](cmd.speed) : void 0;
     });
     socket.subscribe("/drone/animate", function(cmd) {
