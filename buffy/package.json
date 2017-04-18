@@ -1,0 +1,87 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "buffy@0.0.2",
+        "scope": null,
+        "escapedName": "buffy",
+        "name": "buffy",
+        "rawSpec": "0.0.2",
+        "spec": "0.0.2",
+        "type": "version"
+      },
+      "/Users/neelgriddalur/Documents/Microsoft AI Project/2 - Face Recog Drone/node_modules/ar-drone"
+    ]
+  ],
+  "_defaultsLoaded": true,
+  "_engineSupported": true,
+  "_from": "buffy@0.0.2",
+  "_id": "buffy@0.0.2",
+  "_inCache": true,
+  "_location": "/buffy",
+  "_nodeVersion": "v0.8.1-pre",
+  "_npmUser": {
+    "name": "felixge",
+    "email": "felix@debuggable.com"
+  },
+  "_npmVersion": "1.1.21",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "buffy@0.0.2",
+    "scope": null,
+    "escapedName": "buffy",
+    "name": "buffy",
+    "rawSpec": "0.0.2",
+    "spec": "0.0.2",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/ar-drone"
+  ],
+  "_resolved": "https://registry.npmjs.org/buffy/-/buffy-0.0.2.tgz",
+  "_shasum": "7d1fea2a9314f65694e8e2b297e035726030f56a",
+  "_shrinkwrap": null,
+  "_spec": "buffy@0.0.2",
+  "_where": "/Users/neelgriddalur/Documents/Microsoft AI Project/2 - Face Recog Drone/node_modules/ar-drone",
+  "author": {
+    "name": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/felixge/node-buffy/issues"
+  },
+  "dependencies": {},
+  "description": "A module to read / write binary data and streams.",
+  "devDependencies": {
+    "urun": "0.0.6",
+    "utest": "0.0.6"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "7d1fea2a9314f65694e8e2b297e035726030f56a",
+    "tarball": "https://registry.npmjs.org/buffy/-/buffy-0.0.2.tgz"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "homepage": "https://github.com/felixge/node-buffy",
+  "main": "./index",
+  "maintainers": [
+    {
+      "name": "felixge",
+      "email": "felix@debuggable.com"
+    }
+  ],
+  "name": "buffy",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felixge/node-buffy.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "version": "0.0.2"
+}
