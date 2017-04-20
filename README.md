@@ -4,7 +4,7 @@ The Object Recognition Drone is a platform that allows one to perform object rec
 
 For more information on Microsoft Computer Vision APIs and the Microsoft Bing Speech APIs, see the Microsoft Computer Vision API Documentation and Microsoft Bing Speech APIs on docs.microsoft.com. 
 
-Inspiration for this project came from Lukas Biewald’s article. 
+Inspiration for this project came from Lukas Biewald’s article at https://www.oreilly.com/ideas/how-to-build-an-autonomous-voice-controlled-face-recognizing-drone-for-200. 
 
 If you run into any problems, feel free to contact Isha Chakraborty at ishachak@gmail.com or Neelagreev Griddalur at neelagreev@griddalur.xyz
 
