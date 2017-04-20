@@ -6,6 +6,10 @@ For more information on Microsoft Computer Vision APIs and the Microsoft Bing Sp
 
 Inspiration for this project came from Lukas Biewald’s article. 
 
+If you run into any problems, feel free to contact Isha Chakraborty at ishachak@gmail.com or Neelagreev Griddalur at neelagreev@griddalur.xyz
+
+
+
 # Source Code
 
 Clone the sources: git clone https://github.com/Object_Recognition_Drone
