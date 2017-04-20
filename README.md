@@ -1,5 +1,7 @@
 # Object Recognition Drone
 
+This project is an ongoing work under Anusua Trivedi, Data Scientist Sr. at Microsoft. Anusua is a mentor to Isha Chakraborty & Neelagreev Griddalur, who are the main contributors to this project.
+
 The Object Recognition Drone is a platform that allows one to perform object recognition using a drone. This software implements the Microsoft Computer Vision API and the Microsoft Bing Speech API and combines it with the Node Javascript file to access a Web Interface for full control of the drone functionalities. By invoking the server.js, you can fly your drone and have it recognize objects in real-time. 
 
 For more information on Microsoft Computer Vision APIs and the Microsoft Bing Speech APIs, see the Microsoft Computer Vision API Documentation and Microsoft Bing Speech APIs on docs.microsoft.com. 
