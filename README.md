@@ -8,6 +8,11 @@ Inspiration for this project came from Lukas Biewald’s article.
 
 If you run into any problems, feel free to contact Isha Chakraborty at ishachak@gmail.com or Neelagreev Griddalur at neelagreev@griddalur.xyz
 
+LinkedIns: 
+
+https://www.linkedin.com/in/ishachakraborty/
+https://www.linkedin.com/in/neelagreevgriddalur/
+
 
 
 # Source Code
