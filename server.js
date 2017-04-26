@@ -9,7 +9,7 @@
         args: ['identify']
     };
     var drone = require("ar-drone").createClient({
-        ip: '192.168.43.190',
+        ip: '[Insert Your Drones IP]',
         frameRate: 10
     });
     drone.config('general:navdata_demo', 'TRUE');

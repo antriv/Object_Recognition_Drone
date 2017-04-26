@@ -41,7 +41,7 @@ def processRequest( json, data, headers, params ):
 def renderResult (detected) :
     objectDetected = detected['description']['captions'][0]['text']
     print(objectDetected)
-    translator = Translator('33a6b9b302ea41a5a3149cde9c97a3e5')
+    translator = Translator('[tts key]')
     output = translator.speak(objectDetected, "en-US", "Female", "riff-16khz-16bit-mono-pcm")
     with open("file.wav", "w") as f:
         f.write(output)
@@ -51,7 +51,7 @@ def renderResult (detected) :
 
 # API parameters
 _url = 'https://api.projectoxford.ai/vision/v1.0/analyze'
-_key = 'a0d46922c3104090851bbedd5e385ef4'
+_key = '[compvision api key]'
 _maxNumRetries = 10
 params = {'visualFeatures' : 'Color, Categories, Description'}
 headers = dict()
@@ -59,7 +59,7 @@ headers['Ocp-Apim-Subscription-Key'] = _key
 headers['Content-Type'] = 'application/octet-stream'
 jsonObj = None
 
-imageName = 'droneimage.png'
+imageName = 'droneimage.jpg'
 with open(imageName, 'rb') as f:
     data = f.read()
 detected = processRequest(json, data, headers, params)
