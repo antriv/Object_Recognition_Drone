@@ -48,6 +48,7 @@ Run the command, “./start.sh” to run the shell file and follow the instructi
 In the same terminal window, run “node server.js”  and navigate to “localhost:3001” in your browser window. 
 Open a second terminal window In the window, run “./object_detect.sh” to take the picture. This will run the ComputerVision.py file to identify the object. 
 
+If you want to run the facial recognition, run "./startfacerec.sh" to take the picture. This will run the OpenCV code and the bat files to identify the person. This can only be done once you "enroll" the subject, details of how to do that can be found in the README.md file in the facerec folder. 
 
 
 
