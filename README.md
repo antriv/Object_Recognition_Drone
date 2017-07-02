@@ -8,9 +8,11 @@ For more information on Microsoft Computer Vision APIs and the Microsoft Bing Sp
 
 Inspiration for this project came from Lukas Biewald’s article at https://www.oreilly.com/ideas/how-to-build-an-autonomous-voice-controlled-face-recognizing-drone-for-200. 
 
-If you run into any problems, feel free to contact Isha Chakraborty at ishachak@gmail.com or Neelagreev Griddalur at neelagreev@griddalur.xyz
+If you run into any problems, feel free to contact Anusa Trivedi at antriv@microsoft.com, Isha Chakraborty at ishachak@gmail.com or Neelagreev Griddalur at neelagreev@griddalur.xyz
 
 LinkedIns: 
+
+https://www.linkedin.com/in/anusua/
 
 https://www.linkedin.com/in/ishachakraborty/
 
